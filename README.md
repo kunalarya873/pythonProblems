@@ -1,6 +1,6 @@
 <!-- Add your project banner here -->
 <p align="center">
-  <img src="[your-banner-image-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-practice-problems%2F&psig=AOvVaw3AZLCeKZDlW4Dm6hVMlRek&ust=1696525358037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCOsOTv3IEDFQAAAAAdAAAAABAE)" alt="Python Problems Repository">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-practice-problems%2F&psig=AOvVaw3AZLCeKZDlW4Dm6hVMlRek&ust=1696525358037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCOsOTv3IEDFQAAAAAdAAAAABAE" alt="Python Problems Repository">
 </p>
 
 <!-- Project Title -->
@@ -85,5 +85,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 [![Made with ❤️ by Your Name](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Kunal%20Arya-blue)](https://github.com/kunalarya873)
-```
 
