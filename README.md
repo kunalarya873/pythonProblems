@@ -1,6 +1,6 @@
 <!-- Add your project banner here -->
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-practice-problems%2F&psig=AOvVaw3AZLCeKZDlW4Dm6hVMlRek&ust=1696525358037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCOsOTv3IEDFQAAAAAdAAAAABAE" alt="Python Problems Repository">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frealpython.com%2Fpython-practice-problems%2F&psig=AOvVaw3AZLCeKZDlW4Dm6hVMlRek&ust=1696525358037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCOsOTv3IEDFQAAAAAdAAAAABAE](https://realpython.com/cdn-cgi/image/width=1920,format=auto/https://files.realpython.com/media/Python-Practice-Problems_Watermarked.5c04810c002a.jpg" alt="Python Problems Repository">
 </p>
 
 <!-- Project Title -->
